@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://tomasellis.github.io',
                 'git_url': 'https://github.com/tomasellis/nbdev_titanic',
                 'lib_path': 'nbdev_titanic'},
-  'syms': {'nbdev_titanic.core': {'nbdev_titanic.core.foo': ('core.html#foo', 'nbdev_titanic/core.py')}}}
+  'syms': { 'nbdev_titanic.core': { 'nbdev_titanic.core.foo': ('core.html#foo', 'nbdev_titanic/core.py'),
+                                    'nbdev_titanic.core.test': ('core.html#test', 'nbdev_titanic/core.py')}}}
