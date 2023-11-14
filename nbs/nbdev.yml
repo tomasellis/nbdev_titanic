@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_titanic"
+  site-url: "https://tomasellis.github.io/nbdev_titanic"
+  description: "ml project using Kaggle's Titanic data"
+  repo-branch: main
+  repo-url: "https://github.com/tomasellis/nbdev_titanic"
